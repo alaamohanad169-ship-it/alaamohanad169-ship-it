@@ -17,12 +17,32 @@
 
 ### 🎯 What I Do
 
-I run a **full AI agent stack on my Android phone** using Termux. No cloud server. No PC. Just my phone and Hermes Agent by Nous Research.
+I run a **full AI agent stack on my Android phone** using Termux. No cloud server. No PC. Just my phone and [Hermes Agent](https://github.com/NousResearch/hermes-agent) by [Nous Research](https://nousresearch.com).
 
-- 🤖 **Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) (159K ⭐) — [merged PR #26036](https://github.com/NousResearch/hermes-agent/pull/26036)
-- 📱 **Mobile AI** — running AI agents on Android/Termux (one of the few people doing this)
-- 🏗️ **Architecture** background — bachelor's degree in architecture
-- 🎸 **Guitar player** and AI enthusiast from Alexandria, Egypt
+One of the **only people in the world** running production AI agents on a phone.
+
+- 🤖 **Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) (159K+ ⭐) — 3 merged PRs, 3 open
+- 📱 **Mobile AI Pioneer** — running AI agents on Android/Termux daily
+- 🏗️ **Architecture** background — bachelor's degree
+- 📍 Alexandria, Egypt
+
+---
+
+### ✅ My Hermes Agent Contributions
+
+#### Merged PRs
+| PR | What It Fixed |
+|----|---------------|
+| [#26036](https://github.com/NousResearch/hermes-agent/pull/26036) | Telegram typing indicator re-trigger after sending messages |
+| [#26029](https://github.com/NousResearch/hermes-agent/pull/26029) | Fixed tool argument schema resolution (anyOf/oneOf/allOf) |
+| [#26020](https://github.com/NousResearch/hermes-agent/pull/26020) | Added Kimi/Moonshot to long-lived prompt cache policy |
+
+#### Open PRs
+| PR | What It Does |
+|----|--------------|
+| [#26550](https://github.com/NousResearch/hermes-agent/pull/26550) | Include conversation history in JSON session export |
+| [#26094](https://github.com/NousResearch/hermes-agent/pull/26094) | Teams plugin Python version check with clear error message |
+| [#26074](https://github.com/NousResearch/hermes-agent/pull/26074) | Decouple auto_thread from free_response_channels in Discord |
 
 ---
 
@@ -31,7 +51,7 @@ I run a **full AI agent stack on my Android phone** using Termux. No cloud serve
 ```
 📱 Samsung Galaxy S23 Ultra (Android 16)
 └─ Termux (F-Droid)
-   ├─ Hermes Agent v0.14.0
+   ├─ Hermes Agent v0.14.0+
    ├─ Python 3.13
    ├─ Node.js 26
    ├─ 119+ skills installed
@@ -49,40 +69,28 @@ I run a **full AI agent stack on my Android phone** using Termux. No cloud serve
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — Telegram typing indicator fix (merged) |
-| [monetize-site](https://github.com/alaamohanad169-ship-it/monetize-site) | Digital products landing page |
+| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — 3 merged PRs to Hermes Agent (159K ⭐) |
+| [monetize-site](https://github.com/alaamohanad169-ship-it/monetize-site) | Digital products & landing page |
 | [daily-activity](https://github.com/alaamohanad169-ship-it/daily-activity) | Daily activity log — keeping the streak alive |
-
----
-
-### 📖 Digital Products
-
-| Product | Price | Description |
-|---------|-------|-------------|
-| [Hermes on Android/Termux Guide](https://gumroad.com/) | $29 | The definitive guide to running Hermes Agent on your phone |
-
-*More products coming soon...*
 
 ---
 
 ### 🤝 Connect
 
-- 💬 **Discord:** Nous Research community member
-- 🐦 **Twitter:** Building in public
-- 📧 **Email:** Open for collaborations
+- 💬 **Discord:** Active in Nous Research community
+- 🐦 **Twitter/X:** Building in public
+- 💼 **Open for:** Collaborations, consulting, contributing
 - 💰 **Payments:** Crypto (Binance) accepted
 
 ---
 
 ### 💡 My Philosophy
 
-> *"Maximize human potential by making AI accessible to everyone — even from a $200 phone."*
-
-I believe you don't need expensive hardware to work with AI. A modern Android phone is enough. I'm proving it daily.
+> *"You don't need expensive hardware to work with AI. A modern Android phone is enough. I'm proving it daily."*
 
 ---
 
