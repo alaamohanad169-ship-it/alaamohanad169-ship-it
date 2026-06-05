@@ -21,7 +21,7 @@ I run a **full AI agent stack on my Android phone** using Termux. No cloud serve
 
 One of the **only people in the world** running production AI agents on a phone.
 
-- 🤖 **Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) — **13 merged PRs**, 4 open PRs
+- 🤖 **Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) — **1 merged PR**, 20 open PRs
 - 📱 **Mobile AI Pioneer** — running AI agents on Android/Termux daily
 - 🏗️ **Architecture** background — bachelor's degree
 - 📍 Alexandria, Egypt
@@ -30,30 +30,34 @@ One of the **only people in the world** running production AI agents on a phone.
 
 ### ✅ My Hermes Agent Contributions
 
-#### Merged PRs (13)
+#### Merged PRs (1)
 | # | What It Fixed |
 |---|---------------|
-| [#26029](https://github.com/NousResearch/hermes-agent/pull/26029) | Fixed tool argument schema resolution (anyOf/oneOf/allOf) |
-| [#26020](https://github.com/NousResearch/hermes-agent/pull/26020) | Added Kimi/Moonshot to long-lived prompt cache policy |
-| [#26000](https://github.com/NousResearch/hermes-agent/pull/26000) | Deep-copy fallback chain + prefer entry base_url for subagents |
-| [#25896](https://github.com/NousResearch/hermes-agent/pull/25896) | Load credential pool after /model switch |
-| [#25891](https://github.com/NousResearch/hermes-agent/pull/25891) | Include cached_tokens in OpenAI-compat usage emission |
-| [#25881](https://github.com/NousResearch/hermes-agent/pull/25881) | Clear container config when backend is local |
-| [#25770](https://github.com/NousResearch/hermes-agent/pull/25770) | Bypass system proxy for localhost requests |
-| [#25717](https://github.com/NousResearch/hermes-agent/pull/25717) | Include cached_tokens in OpenAI-compat usage emission |
-| [#25626](https://github.com/NousResearch/hermes-agent/pull/25626) | Show original URL instead of slug when title fetch fails |
-| [#25612](https://github.com/NousResearch/hermes-agent/pull/25612) | Report no-op edits clearly |
-| [#25610](https://github.com/NousResearch/hermes-agent/pull/25610) | Set awaiting_text=True for all clarify entries |
-| [#25609](https://github.com/NousResearch/hermes-agent/pull/25609) | Read approvals.timeout from config in CLI approval callback |
-| [#25560](https://github.com/NousResearch/hermes-agent/pull/25560) | Restrict .env to 0600 permissions |
+| [#36905](https://github.com/NousResearch/hermes-agent/pull/36905) | fix(discord): fetch and inject reply context for incoming messages |
 
-#### Open PRs (4)
+#### Open PRs (20)
 | # | What It Does |
 |---|--------------|
-| [#30109](https://github.com/NousResearch/hermes-agent/pull/30109) | Dashboard: capture-phase wheel listener for reliable chat scroll |
-| [#30105](https://github.com/NousResearch/hermes-agent/pull/30105) | Skills: agentskills.io spec compliance for tags/platforms frontmatter |
-| [#30085](https://github.com/NousResearch/hermes-agent/pull/30085) | Discord: fetch and inject reply context for incoming messages |
-| [#30041](https://github.com/NousResearch/hermes-agent/pull/30041) | Curator: post-archive safety guard to prevent unverified skill archival |
+| [#39449](https://github.com/NousResearch/hermes-agent/pull/39449) | fix(doctor): skip npm audit when no package-lock.json |
+| [#39443](https://github.com/NousResearch/hermes-agent/pull/39443) | fix(display): correct spelling of overridable and interruptible |
+| [#39427](https://github.com/NousResearch/hermes-agent/pull/39427) | fix(desktop): preserve previous unpacked dir on failed pack |
+| [#38828](https://github.com/NousResearch/hermes-agent/pull/38828) | fix(matrix): propagate room name to session source |
+| [#38619](https://github.com/NousResearch/hermes-agent/pull/38619) | fix: bump version from 0.15.1 to 0.15.2 |
+| [#38616](https://github.com/NousResearch/hermes-agent/pull/38616) | docs(image-gen): add GPT Image SKU troubleshooting |
+| [#38444](https://github.com/NousResearch/hermes-agent/pull/38444) | fix(mem0): include agent-attributed memories in read filter |
+| [#38441](https://github.com/NousResearch/hermes-agent/pull/38441) | docs(providers): clarify Qwen/vLLM reasoning-parser support |
+| [#38237](https://github.com/NousResearch/hermes-agent/pull/38237) | fix: warn when claw migrate source is remote-mode OpenClaw |
+| [#38233](https://github.com/NousResearch/hermes-agent/pull/38233) | fix: remove redundant _turn_exit_reason assignment |
+| [#37765](https://github.com/NousResearch/hermes-agent/pull/37765) | fix: prevent config dual-write conflict in gateway model switch |
+| [#37395](https://github.com/NousResearch/hermes-agent/pull/37395) | fix(gateway): extend MEDIA regex whitelist |
+| [#37380](https://github.com/NousResearch/hermes-agent/pull/37380) | fix(send_message): route WeCom MEDIA through live gateway adapter |
+| [#37240](https://github.com/NousResearch/hermes-agent/pull/37240) | fix(environments): insert -- between setsid and bash for Termux |
+| [#37114](https://github.com/NousResearch/hermes-agent/pull/37114) | fix(gateway): send feedback during active session |
+| [#37067](https://github.com/NousResearch/hermes-agent/pull/37067) | fix: expose reasoning blocks in /v1/chat/completions |
+| [#37052](https://github.com/NousResearch/hermes-agent/pull/37052) | docs(sidebar): add local-ollama-setup to navigation |
+| [#36901](https://github.com/NousResearch/hermes-agent/pull/36901) | fix(doctor): skip npm audit when no package-lock.json |
+| [#35292](https://github.com/NousResearch/hermes-agent/pull/35292) | fix(update): verify uv binary can execute on Termux |
+| [#34058](https://github.com/NousResearch/hermes-agent/pull/34058) | fix(discord): fetch and inject reply context |
 
 ---
 
@@ -99,7 +103,7 @@ I turn my AI journey into products and services:
 
 | Project | Description |
 |---------|-------------|
-| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — 13 merged PRs |
+| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — 1 merged, 20 open PRs |
 | [monetize-site](https://alaamohanad169-ship-it.github.io/monetize-site/) | My professional landing page |
 | [daily-activity](https://github.com/alaamohanad169-ship-it/daily-activity) | Daily streak tracker |
 
