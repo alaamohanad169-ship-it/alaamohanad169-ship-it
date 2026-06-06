@@ -21,7 +21,7 @@ I run a **full AI agent stack on my Android phone** using Termux. No cloud serve
 
 One of the **only people in the world** running production AI agents on a phone.
 
-- 🤖 **Top Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) — **88 commits merged** into upstream
+- 🤖 **Top Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) — **1 merged PR** into upstream
 - 📱 **Mobile AI Pioneer** — running AI agents on Android/Termux daily
 - 🏗️ **Architecture** background — bachelor's degree
 - 📍 Alexandria, Egypt
@@ -66,7 +66,7 @@ One of the **only people in the world** running production AI agents on a phone.
 ```
 📱 Samsung Galaxy S23 Ultra (Android 16)
 └─ Termux
-   ├─ Hermes Agent v0.14.0 (2026.5.16)
+   ├─ Hermes Agent v0.15.2 (2026.5.16)
    ├─ Python 3.13.13
    ├─ Node.js
    ├─ Git
@@ -103,7 +103,7 @@ I turn my AI journey into products and services:
 
 | Project | Description |
 |---------|-------------|
-|| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — 88 commits merged into upstream |
+|| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — 1 merged PR |
 | [monetize-site](https://alaamohanad169-ship-it.github.io/monetize-site/) | My professional landing page |
 | [daily-activity](https://github.com/alaamohanad169-ship-it/daily-activity) | Daily streak tracker |
 
