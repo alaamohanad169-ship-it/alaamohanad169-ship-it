@@ -21,7 +21,7 @@ I run a **full AI agent stack on my Android phone** using Termux. No cloud serve
 
 One of the **only people in the world** running production AI agents on a phone.
 
-- 🤖 **Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) — **1 merged PR**, 24 open PRs
+- 🤖 **Contributor** to [Hermes Agent](https://github.com/NousResearch/hermes-agent) — **1 merged PR**
 - 📱 **Mobile AI Pioneer** — running AI agents on Android/Termux daily
 - 🏗️ **Architecture** background — bachelor's degree
 - 📍 Alexandria, Egypt
@@ -35,7 +35,7 @@ One of the **only people in the world** running production AI agents on a phone.
 |---|---------------|
 | [#36905](https://github.com/NousResearch/hermes-agent/pull/36905) | fix(discord): fetch and inject reply context for incoming messages |
 
-#### Open PRs (24)
+#### All Contributions (27)
 | # | What It Does |
 |---|--------------|
 | [#39449](https://github.com/NousResearch/hermes-agent/pull/39449) | fix(doctor): skip npm audit when no package-lock.json |
@@ -103,7 +103,7 @@ I turn my AI journey into products and services:
 
 | Project | Description |
 |---------|-------------|
-|| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — 1 merged, 24 open PRs |
+|| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Contributor — 1 merged, 27 total contributions |
 | [monetize-site](https://alaamohanad169-ship-it.github.io/monetize-site/) | My professional landing page |
 | [daily-activity](https://github.com/alaamohanad169-ship-it/daily-activity) | Daily streak tracker |
 
