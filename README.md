@@ -35,7 +35,7 @@ One of the **only people in the world** running production AI agents on a phone.
 |---|---------------|
 | [#36905](https://github.com/NousResearch/hermes-agent/pull/36905) | fix(discord): fetch and inject reply context for incoming messages |
 
-#### Open PRs (20)
+#### Open PRs (24)
 | # | What It Does |
 |---|--------------|
 | [#39449](https://github.com/NousResearch/hermes-agent/pull/39449) | fix(doctor): skip npm audit when no package-lock.json |
